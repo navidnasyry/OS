@@ -502,7 +502,7 @@ int main()
 			}
 			else
 			{
-				printf("\nyou are not admin.\n\you can't enter this command.\n\n");
+				printf("\nyou are not admin.\nyou can't enter this command.\n\n");
 			}
 		}
 
